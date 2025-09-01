@@ -6,3 +6,4 @@ pyyaml
 openpyxl
 matplotlib
 plotly
+ta
